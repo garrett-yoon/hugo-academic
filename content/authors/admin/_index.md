@@ -30,7 +30,7 @@ education:
       institution: NYU Grossman School of Medicine
       year: 2022
     - course: MS in Biomedical Informatics
-      institution: NYU Grossman School of Medicine
+      institution: NYU Vilcek Institute of Graduate Biomedical Sciences
       year: 2021
     - course: BS in Biological Engineering
       institution: Cornell University
