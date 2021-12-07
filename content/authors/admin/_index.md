@@ -30,3 +30,5 @@ superuser: true
 highlight_name: true
 ---
 I'm a 4th year MD/MS student at NYU Grossman school of medicine applying into diagnostic radiology. I'm personally interested in the use of predictive modeling and clinical decision support to improve medicine, especially in the field of radiology.
+
+##### [Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=-138fAEAAAAJ)
