@@ -3,9 +3,7 @@ title: Garrett Yoon
 role: MD/MS Student
 bio: ""
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Radiology
 social: []
 organizations:
   - name: NYU Grossman School of Medicine
