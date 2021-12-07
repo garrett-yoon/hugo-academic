@@ -8,6 +8,11 @@ interests:
   - Artificial Intelligence
   - Computer Vision
 social:
+  - display:
+      header: false
+    link: mailto:garrett.yoon@nyulangone.org
+    icon_pack: ai
+    icon: envelope
   - icon: github
     icon_pack: fab
     link: https://github.com/garrett-yoon
