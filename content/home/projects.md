@@ -2,7 +2,7 @@
 widget: projects
 widget_id: Projects
 headless: true
-weight: 10
+weight: 30
 active: true
 design:
   columns: "2"
