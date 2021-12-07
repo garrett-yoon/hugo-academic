@@ -4,13 +4,18 @@ role: MD/MS Student
 bio: ""
 interests:
   - Radiology
-social: []
+social:
+  - display:
+      header: false
+    icon: github
+    link: https://github.com/garrett-yoon
+    icon_pack: ai
 organizations:
   - name: NYU Grossman School of Medicine
     url: https://med.nyu.edu
 education:
   courses:
-    - course: "MD "
+    - course: MD
       institution: NYU Grossman School of Medicine
       year: 2022
     - course: MS in Biomedical Informatics
