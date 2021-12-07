@@ -8,11 +8,10 @@ interests:
   - Artificial Intelligence
   - Computer Vision
 social:
-  - display:
-      header: true
-    icon: github
-    link: https://github.com/garrett-yoon
-    icon_pack: ai
+- icon: github
+  icon_pack: fab
+  link: https://github.com/garrett-yoon 
+ 
 organizations:
   - name: NYU Grossman School of Medicine
     url: https://med.nyu.edu
