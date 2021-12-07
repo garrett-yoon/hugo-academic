@@ -10,4 +10,3 @@ design:
     text_color_light: false
     image_darken: 0
 ---
-[AMR-UTI Clinical Prediction Tool](https://garrett-yoon.shinyapps.io/amr_uti/)
