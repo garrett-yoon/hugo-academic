@@ -16,6 +16,11 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/garrett-yoon
+  - display:
+      header: false
+    link: https://scholar.google.com/citations?hl=en&user=-138fAEAAAAJ&view_op=list_works&sortby=pubdate&gmla=AJsN-F6VE_N-AuikyubZE_THLZ2scSCPZJmizBiDxWCC-pJthhQ7Glwg6vsyT--zidDPrW0TN5nELpgvTUCBaTw_SlM6JciCvXocxyLYFbQdYJ7-aE7-L2Q&sciund=16372324698663832400
+    icon_pack: ai
+    icon: google-scholar
 organizations:
   - name: NYU Grossman School of Medicine
     url: https://med.nyu.edu
