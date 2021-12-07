@@ -30,4 +30,4 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-I'm a 4th year MD/MS student at NYU Grossman school of medicine applying into diagnostic radiology. I'm personally interested in the intersection of technology, computer science, and engineering with the medical field.
+I'm a 4th year MD/MS student at NYU Grossman school of medicine applying into diagnostic radiology. I'm personally interested in the use of predictive modeling and clinical decision support to improve medicine, especially in the field of radiology.
