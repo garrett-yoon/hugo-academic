@@ -8,10 +8,9 @@ interests:
   - Artificial Intelligence
   - Computer Vision
 social:
-- icon: github
-  icon_pack: fab
-  link: https://github.com/garrett-yoon 
- 
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/garrett-yoon
 organizations:
   - name: NYU Grossman School of Medicine
     url: https://med.nyu.edu
@@ -22,6 +21,7 @@ education:
       year: 2022
     - course: MS in Biomedical Informatics
       institution: NYU Grossman School of Medicine
+      year: 2021
     - course: BS in Biological Engineering
       institution: Cornell University
       year: 2016
