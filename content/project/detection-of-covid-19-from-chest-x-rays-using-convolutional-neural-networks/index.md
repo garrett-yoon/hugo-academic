@@ -3,7 +3,7 @@ title: Detection of COVID-19 from Chest X-rays Using Convolutional Neural Networ
 date: 2021-12-07T19:48:35.801Z
 draft: false
 featured: false
-external_link: Detection of COVID-19 from Chest X-rays Using Convolutional Neural Networks
+external_link: https://github.com/garrett-yoon/dl_spring_2021_CXR
 image:
   filename: null
   focal_point: Smart
