@@ -11,7 +11,7 @@ social:
   - display:
       header: false
     link: mailto:garrett.yoon@nyulangone.org
-    icon_pack: ai
+    icon_pack: fas
     icon: envelope
   - icon: github
     icon_pack: fab
