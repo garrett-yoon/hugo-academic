@@ -9,7 +9,7 @@ interests:
   - Computer Vision
 social:
   - display:
-      header: false
+      header: true
     icon: github
     link: https://github.com/garrett-yoon
     icon_pack: ai
