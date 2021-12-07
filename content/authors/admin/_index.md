@@ -4,6 +4,9 @@ role: MD/MS Student
 bio: ""
 interests:
   - Radiology
+  - Predictive Modeling
+  - Artificial Intelligence
+  - Computer Vision
 social:
   - display:
       header: false
