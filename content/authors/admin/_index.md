@@ -6,7 +6,7 @@ interests:
   - Radiology
   - Predictive Modeling
   - Artificial Intelligence
-  - Computer Vision
+  - Baseball
 social:
   - display:
       header: false
