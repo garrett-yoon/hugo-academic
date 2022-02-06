@@ -39,4 +39,4 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-Currently, I am a 4th year medical student at NYU Grossman School of Medicine applying for diagnostic radiology residency. I completed a masters in biomedical informatics at NYU Vilcek Institute of Graduate Biomedical Sciences. I am personally interested in the use of predictive modeling and clinical decision support to improve medicine, especially in the field of radiology.
+I am a 4th year MD/MS at NYU Grossman School of Medicine entering radiology. I completed a masters in biomedical informatics at NYU Vilcek Institute of Graduate Biomedical Sciences. I am interested in the use of predictive modeling, computer vision, and clinical decision support to improve medicine.
