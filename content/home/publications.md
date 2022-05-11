@@ -1,10 +1,16 @@
 ---
+# An instance of the Pages widget.
+# Documentation: https://wowchemy.com/docs/page-builder/
 widget: pages
-widget_id: publication
+
+# This file represents a page section.
 headless: true
-weight: 100
-title: Publications
-active: true
+
+# Order that this section appears on the page.
+weight: 90
+
+title: Recent Publications
+subtitle: ''
 
 content:
   # Filter on criteria
@@ -24,10 +30,8 @@ content:
   offset: 0
   # Page order: descending (desc) or ascending (asc) date.
   order: desc
-
 design:
-  columns: "2"
-  background:
-    text_color_light: false
-    image_darken: 0
+  # Choose a view for the listings:
+  view: citation
+  columns: '2'
 ---
