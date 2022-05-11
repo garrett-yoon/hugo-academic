@@ -2,7 +2,8 @@
 widget: portfolio
 widget_id: publications
 headless: true
-weight: 10
+weight: 20
+title: Publications
 active: true
 design:
   columns: "2"
