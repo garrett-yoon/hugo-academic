@@ -2,7 +2,7 @@
 widget: portfolio
 widget_id: publications
 headless: true
-weight: 20
+weight: 100
 title: Publications
 active: true
 design:
