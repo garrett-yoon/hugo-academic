@@ -4,9 +4,9 @@ role: MD/MS Student
 bio: ""
 interests:
   - Radiology
-  - Predictive Modeling
   - Artificial Intelligence
   - Baseball
+  - Video Games
 social:
   - display:
       header: false
