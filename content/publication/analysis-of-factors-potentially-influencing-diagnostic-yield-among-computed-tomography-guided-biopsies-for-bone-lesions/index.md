@@ -5,15 +5,14 @@ publication_types:
   - "1"
 authors:
   - admin
-  - GH Yoon MS
-  - ER Gavilá MD
-  - J Wei MD
-  - CJ Burke MD
-  - WR Walter MD
+  - Elisa Ramos Gavilá
+  - Jason Wei
+  - Christopher J. Burke
+  - William R. Walter
 date: '2021-05-01T00:00:00Z'
 draft: false
 featured: false
-publication: In JCAT
+publication: Journal of Computer Assisted Tomography
 image:
   filename: featured
   focal_point: Smart
