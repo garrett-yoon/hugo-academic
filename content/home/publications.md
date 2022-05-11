@@ -12,7 +12,8 @@ weight: 90
 title: Recent Publications
 subtitle: ''
 
-content.item_type: publication
+content:
+  item_type: publication
 
 design:
   # Choose a view for the listings:
