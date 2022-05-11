@@ -13,6 +13,7 @@ authors:
 date: '2021-05-01T00:00:00Z'
 draft: false
 featured: false
+publication: In JCAT
 image:
   filename: featured
   focal_point: Smart
