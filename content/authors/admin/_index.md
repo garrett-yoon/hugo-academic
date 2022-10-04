@@ -1,12 +1,12 @@
 ---
 title: Garrett Yoon
-role: MD/MS Student
+role: MD/MS 
 bio: ""
 interests:
   - Radiology
   - Artificial Intelligence
   - Baseball
-  - Video Games
+  - Board Games
 social:
   - display:
       header: false
@@ -22,8 +22,6 @@ social:
     icon_pack: ai
     icon: google-scholar
 organizations:
-  - name: NYU Grossman School of Medicine
-    url: https://med.nyu.edu
 education:
   courses:
     - course: MD
@@ -39,4 +37,4 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-I am a 4th year MD/MS at NYU Grossman School of Medicine entering radiology. I completed a masters in biomedical informatics at NYU Vilcek Institute of Graduate Biomedical Sciences. I am interested in the use of predictive modeling, computer vision, and clinical decision support to improve medicine.
+I am a current preliminary medicine resident starting radiology residency in 2023. I completed a masters in biomedical informatics at NYU Vilcek Institute of Graduate Biomedical Sciences. I am interested in the use of predictive modeling, computer vision, and clinical decision support to improve medicine.
