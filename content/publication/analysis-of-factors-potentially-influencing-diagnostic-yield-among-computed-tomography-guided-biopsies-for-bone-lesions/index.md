@@ -13,6 +13,9 @@ date: '2021-05-01T00:00:00Z'
 draft: false
 featured: false
 publication: Journal of Computer Assisted Tomography
+links:
+- name: Link
+  url: https://pubmed.ncbi.nlm.nih.gov/35723638/
 image:
   filename: featured
   focal_point: Smart
