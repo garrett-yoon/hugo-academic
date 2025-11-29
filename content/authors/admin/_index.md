@@ -17,7 +17,7 @@ social:
     icon_pack: ai
     icon: google-scholar
 organizations:
-education and training:
+education:
   courses:
     - course: MD
       institution: NYU Grossman School of Medicine
