@@ -22,7 +22,7 @@ social:
     icon_pack: ai
     icon: google-scholar
 organizations:
-education:
+education and training:
   courses:
     - course: MD
       institution: NYU Grossman School of Medicine
