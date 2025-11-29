@@ -37,4 +37,4 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-I am a current preliminary medicine resident starting radiology residency in 2023. I completed a masters in biomedical informatics at NYU Vilcek Institute of Graduate Biomedical Sciences. I am interested in the use of predictive modeling, computer vision, and clinical decision support to improve medicine.
+Radiology resident. Interests include artificial intelligence, education, baseball, and cookies.
