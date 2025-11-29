@@ -2,11 +2,6 @@
 title: Garrett Yoon
 role: MD/MS 
 bio: ""
-interests:
-  - Radiology
-  - Artificial Intelligence
-  - Baseball
-  - Board Games
 social:
   - display:
       header: false
